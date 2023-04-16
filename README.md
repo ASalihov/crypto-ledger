@@ -11,3 +11,5 @@ https://medium.com/@hernackikacper/blockchain-with-typescript-part-i-source-code
 https://b2broker.com/news/how-to-develop-a-crypto-wallet-for-beginners/
 
 https://www.youtube.com/watch?v=_K0BVsi9OjA
+
+https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain
