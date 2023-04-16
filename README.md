@@ -12,6 +12,12 @@ https://b2broker.com/news/how-to-develop-a-crypto-wallet-for-beginners/
 
 https://www.youtube.com/watch?v=_K0BVsi9OjA
 
+COURSES:
+
 https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain
 
 https://www.edx.org/course/bitcoin-and-cryptocurrencies
+
+https://app.pluralsight.com/library/courses/blockchain-ethereum-developing-applications/table-of-contents
+
+https://www.coursera.org/specializations/blockchain#courses
