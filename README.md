@@ -21,3 +21,7 @@ https://www.edx.org/course/bitcoin-and-cryptocurrencies
 https://app.pluralsight.com/library/courses/blockchain-ethereum-developing-applications/table-of-contents
 
 https://www.coursera.org/specializations/blockchain#courses
+
+ROADMAPS
+
+https://blockchain.mipt.ru/#programme
