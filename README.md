@@ -14,6 +14,8 @@ https://www.youtube.com/watch?v=_K0BVsi9OjA
 
 COURSES:
 
+https://mipt.ru/online/innotech/blokchain.php
+
 https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain
 
 https://www.edx.org/course/bitcoin-and-cryptocurrencies
